@@ -1,4 +1,4 @@
-<h1 align="center">Hi there  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Hümeyra Mercan</h1>
+<h1 align="center">Hi there 👋, I'm Hümeyra Mercan</h1>
 <h3 align="center">Sakarya University Computer Engineering Student.</h3>
 
 - 🔭 I’m currently a student at Android Development Bootcamp organized by Up School.
@@ -8,7 +8,7 @@
 - 📫 How to reach me **humeyramercann99@gmail.com**
 
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> Skills  </h2>
 
 <p align="left"> 
   <img
@@ -38,7 +38,7 @@
 
  </p>
  
- <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+ <h2> Connect with me  </h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/humeyramercan/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
