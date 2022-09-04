@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Hümeyra Mercan</h1>
 <h3 align="center">Sakarya University Computer Engineering Student.</h3>
 
-- 🔭 I’m currently a student at Android Development Bootcamp organized by Up School.
+- 🔭 I’m currently an Android Developer at Akbank.
 
 - 🌱 I’m currently learning Android Mobile Development with Kotlin.
 
