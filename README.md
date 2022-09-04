@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Hümeyra Mercan</h1>
-<h3 align="center">Sakarya University Computer Engineering Student.</h3>
+<h3 align="center">Android Developer</h3>
 
 - 🔭 I’m currently an Android Developer at Akbank.
 
